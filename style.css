@@ -1,0 +1,29 @@
+body{
+    background:cover;
+    text-align: center;
+}
+#name{
+    width: 100%;
+    margin-top: 10px;
+    background-color: white;
+}
+.copy_right_footer{
+    position: fixed;
+    color: purple;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+
+}
+#header{
+    width: 100%;
+    
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
